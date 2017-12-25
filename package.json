@@ -10,7 +10,7 @@
     "prop-types": "^15.6.0",
     "react": "16.0.0",
     "react-native": "0.51.0",
-    "react-native-card-media": "^0.1.0",
+    "react-native-card-media": "git+https://github.com/dondoko-susumu/react-native-card-media.git#master",
     "react-native-material-design": "git+https://github.com/gyoh/react-native-material-design.git",
     "react-native-vector-icons": "^4.4.2"
   },
