@@ -17,7 +17,7 @@ import {
 
 import CardMedia from 'react-native-card-media';
 
-const path = 'https://raw.githubusercontent.com/dondoko-susumu/react-native-card-media/master/example/CardMediaExample/media/';
+const path = 'https://raw.githubusercontent.com/dondoko-susumu/react-native-card-media-example/master/media/';
 const files1 = [
   `${path}kids_play_640.jpeg`,
 ];
